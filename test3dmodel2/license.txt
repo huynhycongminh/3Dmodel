@@ -1,0 +1,11 @@
+Model Information:
+* title:	Audi Q7
+* source:	https://sketchfab.com/3d-models/audi-q7-0e941fe037ea49ffab3628b42585c513
+* author:	MEGA MODELS (https://sketchfab.com/rathnayakakalindu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Audi Q7" (https://sketchfab.com/3d-models/audi-q7-0e941fe037ea49ffab3628b42585c513) by MEGA MODELS (https://sketchfab.com/rathnayakakalindu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
